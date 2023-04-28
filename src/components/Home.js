@@ -44,21 +44,33 @@ const Home = () => {
 					TintTastic
 				</Text>
 				<Flex alignItems='center'>
-					<Icon
-						as={FaGithub}
-						boxSize={6}
-						color='#9BA4B5'
-						cursor='pointer'
-						_hover={{ color: "#212A3E" }}
-						mr='50px'
-					/>
-					<Icon
-						as={FaTwitter}
-						boxSize={6}
-						color='#9BA4B5'
-						cursor='pointer'
-						_hover={{ color: "#212A3E" }}
-					/>
+					<a
+						href='https://github.com/dha-stix/tints-shade-generator'
+						target='_blank'
+						rel='noreferrer'
+					>
+						<Icon
+							as={FaGithub}
+							boxSize={6}
+							color='#9BA4B5'
+							cursor='pointer'
+							_hover={{ color: "#212A3E" }}
+							mr='50px'
+						/>
+					</a>
+					<a
+						href='https://twitter.com/dayvid_JS'
+						target='_blank'
+						rel='noreferrer'
+					>
+						<Icon
+							as={FaTwitter}
+							boxSize={6}
+							color='#9BA4B5'
+							cursor='pointer'
+							_hover={{ color: "#212A3E" }}
+						/>
+					</a>
 				</Flex>
 			</Flex>
 			<Flex
