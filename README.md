@@ -15,3 +15,4 @@
 - [ReactJS](https://react.dev/)
 - [Chakra UI](https://chakra-ui.com/)
 - [Values.js](https://github.com/noeldelgado/values.js)
+- [React Copy To Clipboard](https://github.com/nkbt/react-copy-to-clipboard)
