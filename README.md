@@ -5,7 +5,7 @@
 [View Live Version](https://tints-shade-generator.vercel.app/)
 
 ## How-to Guide
-[Read the article on Dev.to]()
+[Read the article on Dev.to](https://dev.to/arshadayvid/building-a-tints-and-shades-colour-generator-with-react-and-valuesjs-4n64)
 ## Installation
 - Clone the project repository. Don't forget to star the repo 😉
 - Run `npm install` to install its dependencies.
