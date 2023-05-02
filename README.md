@@ -1,6 +1,7 @@
 # Tints & Shades App Generator with ReactJS, Chakra UI, and Values.js
 ### It generates the tints and shades of any colour code (HEX) values.
 ![Shades and Tint App](https://raw.githubusercontent.com/dha-stix/tints-shade-generator/main/tints-and-shade-app-generator.png)
+![Building a tints and shade generator with React and Chakra UI](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/at6ljrbl0tzfvwt8xe2l.gif)
 ## Live Demo
 [View Live Version](https://tints-shade-generator.vercel.app/)
 
